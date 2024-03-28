@@ -37,7 +37,7 @@ from jparc_linac_bunch_generator import JPARC_Linac_BunchGenerator
 random.seed(100)
 
 
-#---- Define the list of subsecuences for the lattice
+#---- Define the list of subsequences for the lattice
 names = ["LI_MEBT1",]
 
 #---- create the factory instance
